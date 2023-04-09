@@ -8,8 +8,6 @@ from waifupics import waifu_nsfw, waifu_sfw
 bot = Bot(token=BOT_TOKEN)
 dp= Dispatcher(bot)
 
-button_hi = KeyboardButton('Привет! 👋')
-
 markup_request = ReplyKeyboardMarkup(resize_keyboard=True).add(
     KeyboardButton('/sfw')
 ).add(
