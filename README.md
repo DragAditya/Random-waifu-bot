@@ -1,5 +1,6 @@
 # Waifu Bot
 This is a async Telegram bot that sends a random picture of a waifu (anime girl) in either SFW (safe for work) or NSFW (not safe for work) mode. It uses the [Waifu Pics API](https://waifu.pics/docs) to fetch the images.
+[(my bot on free hosting)](https://t.me/randomanimewaifupicbot)
 
 ![example](https://sun9-52.userapi.com/impg/JAgPCnELOREB6nuZZm0dy44ldhEaMYWDP6TA4A/O__TasaT2c0.jpg?size=462x693&quality=96&sign=90535a4777746217c29d8e140afb190a&type=album)
 
